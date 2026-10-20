@@ -2,6 +2,12 @@
 
 Workaround sperimentale per ridurre il carico del menu di Warcraft III Reforged sostituendo alcuni video WebM animati del menu con video VP9 validi, neri e molto brevi.
 
+## L’idea
+
+Immaginate un Windows che contiene già tutto il necessario per creare finestre, colori e interfacce. Togliete un po’ di schifezze, lasciate solo ciò che serve e usate un linguaggio veloce: il risultato dovrebbe essere un’esperienza più diretta, meno rumorosa e più rispettosa dell’hardware.
+
+Questa patch applica lo stesso principio al menu di Warcraft III: meno animazioni decorative, meno video da decodificare e più spazio al gioco. Le promozioni e i contenuti online non sono il motivo per cui l’utente avvia una partita: il menu dovrebbe prima di tutto essere rapido, leggibile e funzionale.
+
 > Questo progetto non è ufficiale Blizzard, non modifica gli archivi CASC e non pretende di risolvere il difetto nel gioco. È una soluzione locale e reversibile, pensata come workaround fino a una correzione ufficiale.
 
 ## Il problema osservato
